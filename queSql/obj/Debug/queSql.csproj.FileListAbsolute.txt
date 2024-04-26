@@ -1,0 +1,11 @@
+C:\Users\UTN\Desktop\queSql\queSql\bin\Debug\queSql.exe.config
+C:\Users\UTN\Desktop\queSql\queSql\bin\Debug\queSql.exe
+C:\Users\UTN\Desktop\queSql\queSql\bin\Debug\queSql.pdb
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.csproj.AssemblyReference.cache
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.Form1.resources
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.Properties.Resources.resources
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.csproj.GenerateResource.cache
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.csproj.CoreCompileInputs.cache
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.exe
+C:\Users\UTN\Desktop\queSql\queSql\obj\Debug\queSql.pdb
